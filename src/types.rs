@@ -12,5 +12,7 @@ Arrays
 
 pub fn run () {
     // Default is "i32"
+
+    // https://www.youtube.com/watch?v=zF34dRivLOw&t=371s (stopped at 28 min mark)
     let x = 1;
 }
